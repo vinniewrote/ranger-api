@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "id": "23",
+            "firstName": "Vinnie",
+            "age": 39,
+            "parkId": "1"
+        },
+        {
+            "id": "22",
+            "firstName": "Josh",
+            "age": 35,
+            "parkId": "2"
+        },
+        {
+            "id": "21",
+            "firstName": "Megan",
+            "age": 35,
+            "parkId": "2"
+        }
+    ],
+    "parks": [
+        {
+            "id": "1",
+            "name": "SixFlags",
+            "description": "Great America"
+        },
+        {
+            "id": "2",
+            "name": "Cedar Point",
+            "description": "Great America"
+        },
+        {
+            "id": "3",
+            "name": "Magic Kingdom",
+            "description": "Great America"
+        }
+    ]
+}
