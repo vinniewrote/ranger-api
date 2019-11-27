@@ -1,5 +1,5 @@
 {
-  "name": "ranger-graphql-server",
+  "name": "ranger-api",
   "version": "0.1.0",
   "description": "park ranger graphql server for coaster data",
   "main": "server.js",
