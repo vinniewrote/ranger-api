@@ -18,13 +18,15 @@ Open [http://localhost:4000/graphql](http://localhost:4000/graphql) to view it i
 
 
 
-### `{
+```javascript
+{
   user(id:"22"){
     id
     firstName
     age
   }
-}`
+}
+```
 
 an example query that returns data.
 
